@@ -10,19 +10,19 @@ const Services = () => {
         {
             id: 1,
             name: 'Fluoride Treatment',
-            description: 'Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the',
+            description: 'Fluoride treatments are typically professional treatments containing a high concentration of fluoride that a dentist',
             img: fluoride
         },
         {
             id: 2,
             name: 'Cavity Filling',
-            description: 'Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the',
+            description: 'Bond to the tooth. Instantly hardens. Cost-effective. They are tooth-colored, doesn’t look like a filling at all!',
             img: cavity
         },
         {
             id: 3,
             name: 'Teeth Whitening',
-            description: 'Lorem Ipsum is simply dummy printing and typesetting indust Ipsum has been the',
+            description: 'Teeth whitening treatments have gotten much safer as new technological developments in both over-the counter and in-office products have evolved.',
             img: whitening
         },
     ]

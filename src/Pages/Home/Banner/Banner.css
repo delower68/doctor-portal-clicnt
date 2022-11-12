@@ -1,0 +1,5 @@
+.bg-img{
+    background-image: linear-gradient(rgba(255, 253, 253, 0.5),rgba(255, 255, 255, 0.5)), url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTAoh7P-5mN03h4I4Al7Xb9gmvHtgr4GSqTA&usqp=CAU);
+    background-size: cover;
+    height: 650px;
+}
